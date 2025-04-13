@@ -6,6 +6,8 @@ This Repository gonna Document a point of start to me, trying to use I.A to make
 
 GAMES I AIM PLAINING TO DO - 
 
+PONG 
+
 SUPER MARIO WORLD  
 
 DOOM PC VERSION 
